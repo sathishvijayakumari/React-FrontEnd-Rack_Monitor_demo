@@ -1,0 +1,36 @@
+.sidebar_container{
+   width: 100%;
+   height: 5.2vw;
+   background: #ffffff;
+   border-bottom:1px solid rgb(85, 84, 84) ;
+}
+
+.sidebar_button{
+   width: 20%;
+   color: #FFF;
+   font-weight: bold;
+   font-size: 20px;
+   font-family: serif;
+   padding: 20px;
+   position: relative;
+   top: 1.5vw;
+   text-decoration: none;
+   border: 2px solid #FFF;
+   background: #141933;
+
+   /* width: 20%;
+   height: 5vw;
+   color: #00629b;
+   font-weight: bold;
+   font-size: 20px;
+   font-family: serif;
+   border: 2px solid #FFF;
+   background: #FFF;
+   align-items: center;
+   justify-content: space-between; */
+}
+
+.images{
+   width: 3vw;
+   height: 2vw;
+}

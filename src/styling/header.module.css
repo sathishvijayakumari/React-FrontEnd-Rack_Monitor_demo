@@ -1,0 +1,23 @@
+.header_container{
+   width: 100%;
+   height: 5vw;
+   /* position: fixed; */
+   background: #00629b;
+}
+
+.logo_image{
+   width: 20vw;
+   height: 4vw;
+   padding-left: 3vw;
+   margin-top: 5px;
+   cursor: pointer;
+}
+
+.logout_image {
+   width: 3.3vw;
+   height: 3vw;
+   float: right;
+   margin-top: 1vw;
+   margin-right: 2vw;
+   cursor: pointer;
+}

@@ -1,0 +1,31 @@
+.leftNavbar_Container{
+   width: 19%;
+   float: left;
+   height: 100%;
+   margin: 2px;
+}
+
+.subLeftNavBar {
+   padding: 12px;
+   background-color: #276ebe;
+   margin-bottom: 5px;
+   color: #FFF;
+   text-align: center;
+   font-family: serif;
+   font-size: 20px;
+   font-weight: bold;
+   cursor: pointer;
+}
+
+.subLeftNavBar:hover{
+   transform: scale(1.1);
+   font-size: 22px;
+   background-color: blueviolet;
+}
+
+.container { 
+   padding: 20px;
+   width: 79%;
+   float: right;
+   height: 100%;
+}
